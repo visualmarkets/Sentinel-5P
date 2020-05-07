@@ -3,5 +3,7 @@
 .RData
 .Ruserdata
 *.RData
+*.png
 images/*
 dataframes/*
+SatelliteData/*
